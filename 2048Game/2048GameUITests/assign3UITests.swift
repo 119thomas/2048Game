@@ -1,14 +1,14 @@
 //
-//  _048GameUITests.swift
-//  2048GameUITests
+//  assign3UITests.swift
+//  assign3UITests
 //
-//  Created by William Thomas on 3/24/19.
-//  Copyright © 2019 William Thomas. All rights reserved.
+//  Created by Pete Keleher on 2/24/19.
+//  Copyright © 2019 PeteWorks. All rights reserved.
 //
 
 import XCTest
 
-class _048GameUITests: XCTestCase {
+class assign3UITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
